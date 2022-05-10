@@ -1,0 +1,10 @@
+----Information----
+
+Air + Dirty (Reactive) -> This implementation is about how agent comportament refers to two goals, in reative form.
+
+Air_position + Dirty_position (Reactive) -> This implemntation is a upgrade of previous. In this, each position receive a boolean dirt and boolean temperature.
+
+Compilation Error -> Implementation executed even with compilation errors.
+
+Air separated from dirt -> This implementation is an agent that cleaning and cold the ambients, but do one or other only.
+
