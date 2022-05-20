@@ -1,5 +1,9 @@
 ----Information----
 
+Proative -> This implementation is a upgrade of "Semi - Proative" that work with two goals in parallel.
+
+Semi - Proative -> This implementation is about in work with a goal that is satisfied and add a new goal.
+
 Air + Dirty (Reactive) -> This implementation is about how agent comportament refers to two goals, in reative form.
 
 Air_position + Dirty_position (Reactive) -> This implemntation is a upgrade of previous. In this, each position receive a boolean dirt and boolean temperature.
